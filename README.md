@@ -52,5 +52,6 @@ Le site possède une base de données qui contient quatre tables. Une table `pro
    Adresse Email : john@doe.com
 
    Mot de passe : compteDoe04
+Vous pouvez voir le site en live via [ce lien](http://www.benin-immo.great-site.net)
 
 **Réalisé par Meschack Gbewezoun, Etudiant en Informatique de Gestion**
